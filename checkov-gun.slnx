@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="checkov-gun.vcxproj" Id="dedfb10b-cf57-422f-8967-c156d0d7f5f1" />
+</Solution>
