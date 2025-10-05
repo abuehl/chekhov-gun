@@ -22,6 +22,6 @@ Compiler’s Perspective".
 If compiled without optimizer, the program segfaults (because  `fire` is initialized to 0).
 
 With optimizer turned on, the program emits the string. Because the compiler unconditionally
-knows that  `fire` is 0. It knows that dereferencing  `nullptr` is UB. So it is free, not use `fire `
+knows that  `fire` is 0. It knows that dereferencing  `nullptr` is UB. So it is free, not use `fire`
 and directly print "All your bit are belongs to us\n". The compiler is exploiting this specific UB.
 
