@@ -1,5 +1,6 @@
-I'm referring to the "Chekhov's gun" example as presented by Shachar Shemesh in his
-C++Now 2025 Talk "Undefined Behavior From the Compiler’s Perspective".
+I'm referring to the ["Chekhov's gun" example](https://youtu.be/HHgyH3WNTok?t=888) as
+presented by Shachar Shemesh in his C++Now 2025 Talk "Undefined Behavior From the
+Compiler’s Perspective".
 
     #include <iostream>
 
